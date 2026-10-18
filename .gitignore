@@ -214,6 +214,10 @@ tempCodeRunnerFile.py
 # Marimo
 marimo/_static/
 marimo/_lsp/
+
+# Model weights and training outputs
+*.pt
+*.pth
 __marimo__/
 
 # Streamlit
